@@ -889,11 +889,10 @@ print(rf_kfold_cv$bestTune[,1])
                                         color = "#bdbdbd"),
        plot.margin = unit(c(.99, .33, .99, .33), "cm"))
 
-## ----echo=FALSE----------------------------------------------------------------------
 if (!require("sessioninfo")) install.packages("sessioninfo")
 
 sessioninfo::session_info()
 
-# Extracting the code chunks as a script:
+
 
 
