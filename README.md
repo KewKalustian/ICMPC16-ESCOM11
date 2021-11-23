@@ -1,2 +1,2 @@
 # ICMPC16-ESCOM11
-Data and scripts of the studies that will be presented at the conference
+Data and scripts of the studies has been presented at the conference
